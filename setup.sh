@@ -7,7 +7,9 @@ YELLOW='\033[1;33m'
 BLUE='\033[0;34m'
 NC='\033[0m' # No Color
 
-# Banner
+
+curl -s https://raw.githubusercontent.com/Rambeboy/Rambeboy/refs/heads/main/show_logos.sh | bash
+sleep 3
 
 
 # Function to check if command executed successfully
